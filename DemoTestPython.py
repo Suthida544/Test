@@ -1,1 +1,1 @@
-print('Pui Narak Test')
+print('Pui Test')
